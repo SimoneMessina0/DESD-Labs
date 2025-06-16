@@ -1,4 +1,4 @@
-# LAB2-DESD
+# Digital Electronic Systems Design - Laboratories 2024/2025
 This repository contains the results of Laboratories n.2 and n.3 of the course Digital Electronic Systems Design from Politecnico di Milano.
 
 The students who made this Project are: 
